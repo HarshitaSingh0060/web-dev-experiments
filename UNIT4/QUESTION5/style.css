@@ -1,0 +1,22 @@
+body
+{
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+.box1
+{
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(158, 83, 228);
+}
+.box2
+{
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(62, 213, 62);
+}
+.text
+{
+    clear: both;
+    float: center;
+}
